@@ -8,4 +8,6 @@ Just Run the App  , you will find multiple cell like comment cell , feed cell an
 Drag and Drop MJCellCustomCode folder in your project and configure your table view cell with **MJConfigrableCell** and its done. 
 
 Working to minimize it more ,  your suggestions and feedback are highly appreciated.
+
+
 ***Enjoy Coding and Stay Tunned for more updates***
