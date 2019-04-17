@@ -1,6 +1,5 @@
 //
 //  MJConfigurableCell.swift
-//  Plingo
 //
 //  Created by MANISHA JOSHI on 01/04/19.
 //  Copyright © 2019 Plingo. All rights reserved.
